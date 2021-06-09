@@ -1,0 +1,9 @@
+mkdir exercises
+touch moving.txt
+echo 'matrix'>> moving.txt
+echo 'Bose'>> moving.txt
+echo 'Leade'>> moving.txt
+echo 'The man'>> moving.txt
+echo 'Big'>> moving.txt
+grep 'Bose' moving.txt
+echo 'Win' moving.txt
